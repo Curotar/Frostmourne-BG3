@@ -65,7 +65,7 @@ data "SpellSuccess" "DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType); Exe
 data "TargetConditions" "not Self() and Character()"
 data "Icon" "Spell_CUR_FreezingSmite"
 data "DisplayName" "he83f404eg666eg49b0gbf66g0f1f58307dc0;1"
-data "Description" ""
+data "Description" "h7478e0b2g0646g4b13g8fd2g4a750d21802e"
 data "DescriptionParams" "DealDamage(1d8,Cold)"
 data "TooltipDamageList" "DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(2d8,Cold)"
 data "TooltipUpcastDescription" "66388a6f-44dd-4c9f-a9e7-910c50e70755"
