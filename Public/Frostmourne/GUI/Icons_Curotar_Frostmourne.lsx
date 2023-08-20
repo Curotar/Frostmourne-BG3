@@ -9,7 +9,7 @@
                     <attribute id="Width" type="int64" value="64"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Icons_Curotar_Frostmourne.dds"/>
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Atlas_Curotar_Frostmourne.dds"/>
                     <attribute id="UUID" type="FixedString" value="f3898e73-2360-4475-bcdf-2cb15fc8f24a"/>
                 </node>
                 <node id="TextureAtlasTextureSize">
