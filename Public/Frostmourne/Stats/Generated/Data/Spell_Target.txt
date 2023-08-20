@@ -120,7 +120,7 @@ data "SpellStyleGroup" "Class"
 data "SpellFlags" "IsMelee;IsHarmful"
 data "PrepareEffect" "e50b62f4-00b4-445d-a53a-57f857b35a7d"
 data "CastEffect" "5600d296-764d-43f8-b781-2bfcd6cf7312"
-data "HitEffect" "ccdad0c8-5c0f-4a89-8bb6-94573c5fe73b"
+data "TargetEffect" "ccdad0c8-5c0f-4a89-8bb6-94573c5fe73b"
 data "DamageType" "Cold"
 data "SpellSoundMagnitude" "Big"
 
