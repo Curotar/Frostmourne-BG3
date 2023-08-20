@@ -118,8 +118,10 @@ data "DualWieldingSpellAnimation" "71369b20-18f1-4d33-89ad-a99b10f0444c,,;48beee
 data "VerbalIntent" "Damage"
 data "SpellStyleGroup" "Class"
 data "SpellFlags" "IsMelee;IsHarmful"
-data "PrepareEffect" "3dd8cb62-d04e-449c-bd94-ed59f472ec5a"
-data "CastEffect" "bced542c-867a-46e2-a2aa-e652db749c61"
-data "TargetEffect" "3a1161a5-ecfe-40f1-ac2a-c75a5e4d147e"
+data "PrepareEffect" "f4aab3ad-a4ad-48e1-9052-3808e2b65981"
+data "CastEffect" "5600d296-764d-43f8-b781-2bfcd6cf7312"
+data "TargetEffect" "20891751-3bd8-40f4-93f4-fc0650fe0183"
 data "DamageType" "Cold"
 data "SpellSoundMagnitude" "Big"
+
+//PrepareEffect — f4aab3ad-a4ad-48e1-9052-3808e2b65981 — e50b62f4-00b4-445d-a53a-57f857b35a7d
