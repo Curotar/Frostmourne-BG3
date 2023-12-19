@@ -27,10 +27,10 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Icon" type="FixedString" value="Icon_CUR_Frostmourne" />
 					<attribute id="MapKey" type="FixedString" value="838f4200-00bb-4c68-9724-9ae061b5dbbf" />
-					<attribute id="Name" type="LSString" value="Curotar_Frostmourne" />
+					<attribute id="Name" type="LSString" value="Curotar_Frostmourne_Longsword" />
 					<attribute id="ParentTemplateId" type="FixedString" value="455383a5-1211-4500-85f9-b71fad3fbf15" />
 					<attribute id="VisualTemplate" type="FixedString" value="d08ceb56-1c6c-4a36-a85a-edb50339e901" />
-					<attribute id="Stats" type="FixedString" value="Curotar_Frostmourne" />
+					<attribute id="Stats" type="FixedString" value="Curotar_Frostmourne_Longsword" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
 				</node>	
