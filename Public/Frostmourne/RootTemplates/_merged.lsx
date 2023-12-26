@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save> 
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects"> Frostmourne
+					<attribute id="Description" type="TranslatedString" handle="h71e111afg7038g4e4cgb425g04da9fc19a43" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h738611a8gce76g466fg9b4ag3d772bacf7c0" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="Icon_CUR_Frostmourne" />
+					<attribute id="MapKey" type="FixedString" value="c45a3e7a-03b9-4dc5-9157-92d9ff0d3a29" />
+					<attribute id="Name" type="LSString" value="Curotar_Frostmourne" />
+					<attribute id="ParentTemplateId" type="FixedString" value="455383a5-1211-4500-85f9-b71fad3fbf15" />
+					<attribute id="VisualTemplate" type="FixedString" value="6624c3fc-0fa8-411d-bedf-d06014dcbf9d" />
+					<attribute id="Stats" type="FixedString" value="Curotar_Frostmourne" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+			</children>
+		</node>
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects"> Frostmourne Longsword
+					<attribute id="Description" type="TranslatedString" handle="h71e111afg7038g4e4cgb425g04da9fc19a43" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h738611a8gce76g466fg9b4ag3d772bacf7c0" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="Icon_CUR_Frostmourne" />
+					<attribute id="MapKey" type="FixedString" value="838f4200-00bb-4c68-9724-9ae061b5dbbf" />
+					<attribute id="Name" type="LSString" value="Curotar_Frostmourne_Longsword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="VisualTemplate" type="FixedString" value="d08ceb56-1c6c-4a36-a85a-edb50339e901" />
+					<attribute id="Stats" type="FixedString" value="Curotar_Frostmourne_Longsword" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+				</node>	
+			</children>
+		</node>
+
+	</region>
+</save>
