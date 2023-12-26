@@ -16,11 +16,7 @@
 					<attribute id="Stats" type="FixedString" value="Curotar_Frostmourne" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
-				</node>	
-			</children>
-		</node>
-		<node id="Templates">
-			<children>	
+				</node>
 				<node id="GameObjects"> Frostmourne Longsword
 					<attribute id="Description" type="TranslatedString" handle="h71e111afg7038g4e4cgb425g04da9fc19a43" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h738611a8gce76g466fg9b4ag3d772bacf7c0" version="1" />
@@ -36,6 +32,5 @@
 				</node>	
 			</children>
 		</node>
-
 	</region>
 </save>
