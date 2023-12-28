@@ -29,6 +29,15 @@
 					<attribute id="Stats" type="FixedString" value="Curotar_Frostmourne_Longsword" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="Curotar_Frostmourne_Frost_VFX" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>	
 			</children>
 		</node>
